@@ -136,3 +136,4 @@ C:\Main storage\Kuliah\Semester 8\Magang Pelindo\test_application_dotnet\test_ap
 C:\Main storage\Kuliah\Semester 8\Magang Pelindo\test_application_dotnet\test_application_dotnet\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Main storage\Kuliah\Semester 8\Magang Pelindo\test_application_dotnet\test_application_dotnet\obj\Debug\net8.0\test_application_dotnet.csproj.AssemblyReference.cache
 C:\Main storage\Kuliah\Semester 8\Magang Pelindo\test_application_dotnet\test_application_dotnet\obj\Debug\net8.0\test_app.67E547BF.Up2Date
+C:\Main storage\Kuliah\Semester 8\Magang Pelindo\test_application_dotnet\test_application_dotnet\obj\Debug\net8.0\test_application_dotnet.sourcelink.json

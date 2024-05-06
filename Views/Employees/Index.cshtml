@@ -3,8 +3,8 @@
 @{
 }
 
-<h1>Employees</h1>
-
+<h1>Employees Lists</h1>
+<br />
 <table class="table">
     <thead>
         <tr>
@@ -27,7 +27,7 @@
             <td>@employee.Salary</td>
             <td>@employee.DateofBirth.ToString("dd-mm-yyyy")</td>
             <td>@employee.Department</td>
-            <td><a href="Employees/UpdateEmployee/@employee.Id">Alter</a></td>
+                <td><button class="btn btn-primary" onclick="window.location.href='@Url.Action("UpdateEmployee", "Employees", new { id = employee.Id })'">Update</button></td>
         </tr>
         }
     </tbody>

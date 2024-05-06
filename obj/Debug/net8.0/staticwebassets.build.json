@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "tkDQhuFalbkNa3VQk5asnnIIOrZEMEiDhHmDRoxI6n0=",
+  "Hash": "PK+YWZ62TBqM49HhbP1MSNIDGb8D4WaJUiD5suXZpdQ=",
   "Source": "test_application_dotnet",
   "BasePath": "_content/test_application_dotnet",
   "Mode": "Default",
@@ -91,6 +91,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\styles.css"
+    },
+    {
+      "Identity": "C:\\Main storage\\Kuliah\\Semester 8\\Magang Pelindo\\test_application_dotnet\\test_application_dotnet\\wwwroot\\css\\theme.css",
+      "SourceId": "test_application_dotnet",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Main storage\\Kuliah\\Semester 8\\Magang Pelindo\\test_application_dotnet\\test_application_dotnet\\wwwroot\\",
+      "BasePath": "_content/test_application_dotnet",
+      "RelativePath": "css/theme.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\theme.css"
     },
     {
       "Identity": "C:\\Main storage\\Kuliah\\Semester 8\\Magang Pelindo\\test_application_dotnet\\test_application_dotnet\\wwwroot\\favicon.ico",

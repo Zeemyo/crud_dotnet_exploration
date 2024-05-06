@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\css\\styles.css"
     },
     {
+      "Id": "C:\\Main storage\\Kuliah\\Semester 8\\Magang Pelindo\\test_application_dotnet\\test_application_dotnet\\wwwroot\\css\\theme.css",
+      "PackagePath": "staticwebassets\\css\\theme.css"
+    },
+    {
       "Id": "C:\\Main storage\\Kuliah\\Semester 8\\Magang Pelindo\\test_application_dotnet\\test_application_dotnet\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
